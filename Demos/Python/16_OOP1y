@@ -1,0 +1,24 @@
+class Student:
+
+    def display_details(self):
+        print("Student ID:", self.student_id)
+        print("Student Name:", self.name)
+        print("Marks:", self.marks)
+
+
+# Create first object
+student1 = Student()
+
+student1.student_id = 101
+student1.name = "Rahul"
+student1.marks = 85
+
+# Create second object
+student2 = Student()
+
+student2.student_id = 102
+student2.name = "Priya"
+student2.marks = 92
+
+student1.display_details()
+student2.display_details()
