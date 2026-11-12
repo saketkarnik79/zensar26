@@ -1,0 +1,6 @@
+OrderID,Customer,Product,Quantity,UnitPrice,TotalAmount,DiscountRate,DiscountAmount,NetAmount
+1,Amit,Laptop,1,50000,50000,0.05,2500.0,47500.0
+2,Priya,Mouse,2,500,1000,0.05,50.0,950.0
+3,Amit,Keyboard,3,1000,3000,0.05,150.0,2850.0
+4,Rahul,Laptop,1,50000,50000,0.05,2500.0,47500.0
+5,Priya,Mouse,4,500,2000,0.05,100.0,1900.0

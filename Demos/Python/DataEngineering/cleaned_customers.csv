@@ -1,0 +1,6 @@
+CustomerID,Name,Age,City,Salary,SalaryStatus,SalaryCategory
+101,Amit,25.0,Mumbai,50000.0,Valid,Medium
+102,Priya,29.0,Pune,45000.0,Valid,Medium
+103,Rahul,30.0,Unknown,60000.0,Valid,High
+104,Neha,28.0,Delhi,55000.0,Valid,High
+105,Vikas,35.0,Mumbai,,Needs Review,Unknown
