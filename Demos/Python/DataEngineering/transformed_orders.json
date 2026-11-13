@@ -1,0 +1,67 @@
+[
+    {
+        "OrderID": 1001,
+        "OrderDate": "2026-11-01",
+        "CustomerID": 1,
+        "CustomerName": "Amit",
+        "City": "Mumbai",
+        "Product": "Laptop",
+        "Quantity": 1,
+        "UnitPrice": 50000,
+        "TotalAmount": 50000,
+        "Year": 2026,
+        "Month": 11
+    },
+    {
+        "OrderID": 1001,
+        "OrderDate": "2026-11-01",
+        "CustomerID": 1,
+        "CustomerName": "Amit",
+        "City": "Mumbai",
+        "Product": "Mouse",
+        "Quantity": 2,
+        "UnitPrice": 500,
+        "TotalAmount": 1000,
+        "Year": 2026,
+        "Month": 11
+    },
+    {
+        "OrderID": 1002,
+        "OrderDate": "2026-11-02",
+        "CustomerID": 2,
+        "CustomerName": "Priya",
+        "City": "Pune",
+        "Product": "Keyboard",
+        "Quantity": 2,
+        "UnitPrice": 1500,
+        "TotalAmount": 3000,
+        "Year": 2026,
+        "Month": 11
+    },
+    {
+        "OrderID": 1003,
+        "OrderDate": "2026-11-03",
+        "CustomerID": 3,
+        "CustomerName": "Rahul",
+        "City": "Delhi",
+        "Product": "Monitor",
+        "Quantity": 1,
+        "UnitPrice": 12000,
+        "TotalAmount": 12000,
+        "Year": 2026,
+        "Month": 11
+    },
+    {
+        "OrderID": 1003,
+        "OrderDate": "2026-11-03",
+        "CustomerID": 3,
+        "CustomerName": "Rahul",
+        "City": "Delhi",
+        "Product": "Mouse",
+        "Quantity": 1,
+        "UnitPrice": 500,
+        "TotalAmount": 500,
+        "Year": 2026,
+        "Month": 11
+    }
+]

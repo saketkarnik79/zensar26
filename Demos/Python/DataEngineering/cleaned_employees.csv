@@ -1,0 +1,7 @@
+EmployeeID,Name,Department,Age,Salary,Bonus,TotalCompensation,SalaryCategory
+101,Amit,IT,28,50000.0,5000.0,55000.0,Medium
+102,Priya,HR,32,45000.0,4500.0,49500.0,Medium
+103,Rahul,FINANCE,29,60000.0,6000.0,66000.0,High
+104,Neha,IT,29,55000.0,5500.0,60500.0,High
+106,Sunita,FINANCE,30,48000.0,4800.0,52800.0,Medium
+109,Karan,UNKNOWN,27,47000.0,4700.0,51700.0,Medium

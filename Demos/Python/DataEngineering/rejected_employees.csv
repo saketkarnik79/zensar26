@@ -1,0 +1,4 @@
+EmployeeID,Name,Department,Age,Salary,RejectionReason
+105,Vikas,HR,35.0,,Invalid Salary
+107,Arjun,IT,25.0,,Invalid Salary
+108,Meena,HR,150.0,52000.0,Invalid Age

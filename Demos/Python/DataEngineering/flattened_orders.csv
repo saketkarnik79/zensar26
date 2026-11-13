@@ -1,0 +1,6 @@
+OrderID,OrderDate,CustomerID,CustomerName,City,Product,Quantity,UnitPrice,TotalAmount,Year,Month
+1001,2026-11-01,1,Amit,Mumbai,Laptop,1,50000,50000,2026,11
+1001,2026-11-01,1,Amit,Mumbai,Mouse,2,500,1000,2026,11
+1002,2026-11-02,2,Priya,Pune,Keyboard,2,1500,3000,2026,11
+1003,2026-11-03,3,Rahul,Delhi,Monitor,1,12000,12000,2026,11
+1003,2026-11-03,3,Rahul,Delhi,Mouse,1,500,500,2026,11
