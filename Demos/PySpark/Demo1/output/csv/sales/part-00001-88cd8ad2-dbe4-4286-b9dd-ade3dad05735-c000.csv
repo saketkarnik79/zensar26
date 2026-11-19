@@ -1,0 +1,4 @@
+OrderID,CustomerName,Product,Quantity,Price,City,TotalAmount
+104,Priya,Monitor,2,12000.0,Mumbai,24000.0
+105,Ravi,Laptop,1,60000.0,Bangalore,60000.0
+106,Rajveer Pratap Singh Chauhan,Laptop,1,60000.0,"Chikballapore, Bangalore",60000.0

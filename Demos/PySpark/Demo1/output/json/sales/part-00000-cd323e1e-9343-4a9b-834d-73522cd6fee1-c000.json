@@ -1,0 +1,3 @@
+{"OrderID":101,"CustomerName":"Amit","Product":"Laptop","Quantity":1,"Price":55000.0,"City":"Mumbai","TotalAmount":55000.0}
+{"OrderID":102,"CustomerName":"Neha","Product":"Mouse","Quantity":2,"Price":750.0,"City":"Pune","TotalAmount":1500.0}
+{"OrderID":103,"CustomerName":"Rahul","Product":"Keyboard","Quantity":1,"Price":1500.0,"City":"Delhi","TotalAmount":1500.0}
