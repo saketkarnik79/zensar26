@@ -1,4 +1,0 @@
-OrderID,CustomerName,Product,Quantity,Price,City,TotalAmount
-101,Amit,Laptop,1,55000.0,Mumbai,55000.0
-102,Neha,Mouse,2,750.0,Pune,1500.0
-103,Rahul,Keyboard,1,1500.0,Delhi,1500.0
