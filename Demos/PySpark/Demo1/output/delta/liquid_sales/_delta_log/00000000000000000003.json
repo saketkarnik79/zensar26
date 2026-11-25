@@ -1,0 +1,2 @@
+{"commitInfo":{"timestamp":1795583186323,"operation":"CLUSTER BY","operationParameters":{"oldClusteringColumns":"","newClusteringColumns":"ProductID,SalesDate"},"readVersion":2,"isolationLevel":"Serializable","isBlindAppend":true,"operationMetrics":{},"engineInfo":"Apache-Spark/4.2.0 Delta-Lake/4.4.1","txnId":"572ef844-aaf5-4455-9375-c52d71b06458"}}
+{"domainMetadata":{"domain":"delta.clustering","configuration":"{\"clusteringColumns\":[[\"ProductID\"],[\"SalesDate\"]],\"domainName\":\"delta.clustering\"}","removed":false}}
